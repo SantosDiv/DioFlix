@@ -1,101 +1,93 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Formações",
+      "link": "https://www.youtube.com/watch?v=rUzrTfLRiSE",
+      "cor": "rgb(240,104,103)",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Formações Para o Jovens",
+        "url": "https://www.youtube.com/watch?v=rUzrTfLRiSE"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Shalom e a Primazia dos Jovens - Pe. Joao Wilkes [PREGAÇÃO]",
+          "url": "https://www.youtube.com/watch?v=rUzrTfLRiSE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Sob o Olhar da Mãe",
+          "url": "https://www.youtube.com/watch?v=aKigAkiqWrk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "As Características do Amor Conjugal | EMMIR NOGUEIRA",
+          "url": "https://www.youtube.com/watch?v=M6x34108C3I"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "https://www.youtube.com/watch?v=Mkjr4f6TkSw",
+          "url": "https://www.youtube.com/watch?v=Mkjr4f6TkSw"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Combate Espiritual | Pe. Adler [PREGAÇÃO]",
+          "url": "https://www.youtube.com/watch?v=WuWck2DMYZg"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Musicas",
+      "cor": "rgb(115,42,64)",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Musicas Shalom",
+        "url": "https://www.youtube.com/watch?v=7y0zm21kDt0&list=PLNGEtONc49x7CWTFEGep2WzrXoE-qPJl6"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=7y0zm21kDt0&list=PLNGEtONc49x7CWTFEGep2WzrXoE-qPJl6"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "CD Divino Coração | Mesmo Sendo Deus",
+          "url": "https://www.youtube.com/watch?v=7y0zm21kDt0&list=PLNGEtONc49x7CWTFEGep2WzrXoE-qPJl6"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "CD Divino Coração | Divino Coração",
+          "url": "https://www.youtube.com/watch?v=CgGj7CpCVmk"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "CD Divino Coração | Em Teu Abraço",
+          "url": "https://www.youtube.com/watch?v=SG83zapioKY"
+        }, 
+        {
+          "titulo": "CD Divino Coração | Que Poderei Retribuir",
+          "url": "https://www.youtube.com/watch?v=bVnQ2R7gorg"
+        }
+      ]
+    },
+    {
+      "titulo": "PodeCast",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "PodCast - Shalom",
+        "url": "https://www.youtube.com/playlist?list=PLNGEtONc49x5UGWOaKUGdZPl0nIqASga_"
+      },
+      "videos": [
+        {
+          "titulo": "JOÃO 20 PODCAST | Wallace Freitas Ep. 01",
+          "url": "https://www.youtube.com/watch?v=pjT4z24hIhA&list=PLNGEtONc49x5UGWOaKUGdZPl0nIqASga_&index=14&t=0s"
+        },
+        {
+          "titulo": "JOÃO 20 PODCAST | Wallace Freitas Ep. 01",
+          "url": "https://www.youtube.com/watch?v=pjT4z24hIhA&list=PLNGEtONc49x5UGWOaKUGdZPl0nIqASga_&index=14&t=0s"
+        },
+        {
+          "titulo": "JOÃO 20 PODCAST | Vitor Aragão (Vitinho) Ep. 02",
+          "url": "https://www.youtube.com/watch?v=K9ATn1_xSOU&list=PLNGEtONc49x5UGWOaKUGdZPl0nIqASga_&index=12"
+        },
+        {
+          "titulo": "PODCAST JOÃO 20 | Marcela Leitão Ep. 03",
+          "url": "https://www.youtube.com/watch?v=6r-WIi8NKvM&list=PLNGEtONc49x5UGWOaKUGdZPl0nIqASga_&index=11"
+        },
+        {
+          "titulo": "PODCAST JOÃO 20 | Mayara Amaral Ep. 04",
+          "url": "https://www.youtube.com/watch?v=tWn9QSxjcjM&list=PLNGEtONc49x5UGWOaKUGdZPl0nIqASga_&index=10"
         }
       ]
     },
@@ -104,20 +96,24 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Karol O Homem que se tornou Papa",
+          "url": "https://www.youtube.com/watch?v=nlw5s6Mwzfw"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Karol O Homem que se tornou Papa",
+          "url": "https://www.youtube.com/watch?v=nlw5s6Mwzfw"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O Senhor dos Anéis A sociedade do Anel 2001 - Trailer (Legendado)",
+          "url": "https://www.youtube.com/watch?v=0i86oM1nHjM"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Até o Último Homem | Trailer",
+          "url": "https://www.youtube.com/watch?v=4s4UCxCv_OE"
+        },
+        {
+          "titulo": "Santa Faustina",
+          "url": "https://www.youtube.com/watch?v=qnCMkBusXgI"
         }
       ]
     },
