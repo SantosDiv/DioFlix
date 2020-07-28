@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom'; /*É esse comando 'Link' do react-router-dom que fará com que criemos um carregamento Fake e não mais nativo. Ou seja, seja carregado uma nova página sem recarregar o Browser*/
 import Logo from '../../assets/img/Logo.png';
 import './menu.css';
 //import ButtonLink from './components/ButtonLink';
@@ -7,11 +8,11 @@ import Button from '../Button';
 function Menu() {
     return (
         <nav className="Menu">
-            <a href="/">
+            <Link to="/">
                <img className="Logo" src={Logo} alt="DioFlix Logo"/>
-            </a>
+            </Link>
 
-            <Button as="a" className="ButtonLink" href="/">
+            <Button as={Link} className="ButtonLink" to="./cadastro/video">
                 Novo Video
             </Button>
         </nav>
